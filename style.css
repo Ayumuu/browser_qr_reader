@@ -1,0 +1,11 @@
+body {
+  max-width: 800px;
+  margin: auto;
+  padding: 1rem;
+  font-size: 14px;
+  text-align: center;
+}
+
+#canvas {
+  width: 600px;
+}
